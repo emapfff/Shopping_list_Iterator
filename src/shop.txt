@@ -1,0 +1,4 @@
+bread, 10
+milk, 20
+apples, 16
+lemon, 1
